@@ -1,8 +1,13 @@
-.articleOne {
-  background-color: red;
+
+
+h1{
+color: white;
+}
+.articleone {
+  background-color: rgba(255,0,0,0.4);
   font-family: Helvetica;
   font-size: 12;
-  font-color: white;
+  color: white;
   line-height: 20px;
   padding-bottom: 12px;
   padding-top: 12px;
@@ -10,11 +15,11 @@
   border-radius: 20px 20px;
 }
 
-.articleTwo {
-  background-color: blue;
+.articletwo {
+  background-color: rgba(255,0,0,0.4);
   font-family: Arial;
   font-size: 10;
-  font-color: yellow;
+  color: white;
   line-height: 25px;
   padding-bottom: 10px;
   padding-top: 10px;
@@ -22,14 +27,18 @@
   border-radius: 30px 10px;
 }
 
-.articleThree {
-  background-color: yellow;
+.articlethree {
+  background-color: rgba(255,0,0,0.4);
   font-family: sans-serif;
   font-size: 15;
-  font-color: purple;
+  color: white;
   line-height: 28px;
   padding-bottom: 1px;
   padding-top: 1px;
   border-style: solid;
   border-radius: 50px 25px;
+}
+
+footer {
+  color: white;
 }
